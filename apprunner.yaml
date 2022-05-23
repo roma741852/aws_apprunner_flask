@@ -7,7 +7,7 @@ build:
 run:
   command: python application.py
   env:
-   - name : NAME_FIRST
-     value: "Denis"
-   - name : NAME_LAST
-     value: "Astahov"
+   - name : FAMILA
+     value: "Qarzhau"
+   - name : NAME
+     value: "Ramazan"
