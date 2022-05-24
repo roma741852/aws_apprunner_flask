@@ -1,4 +1,0 @@
-<title>Бегущая строка текста в HTML</title>
-</head>
-<body>
-<marquee behavior="scroll" direction="left">Бегущая строка</marquee>
